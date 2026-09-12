@@ -9,7 +9,6 @@ $(call inherit-product, vendor/crdroid/config/common.mk)
 
 # Heredar de la configuración específica de tu dispositivo
 $(call inherit-product, device/infinix/X6525/device.mk)
-
 # Datos que aparecerán en los ajustes
 PRODUCT_NAME := crdroid_X6525
 PRODUCT_DEVICE := X6525
