@@ -5,7 +5,7 @@
 #
 
 # Heredar de la configuración común de crDroid
-$(call inherit-product, vendor/crdroid/config/common_full_phone.mk)
+$(call inherit-product, vendor/crdroid/config/common.mk)
 
 # Heredar de la configuración específica de tu dispositivo
 $(call inherit-product, device/infinix/X6525/device.mk)
