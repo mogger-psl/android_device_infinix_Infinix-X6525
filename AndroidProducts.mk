@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Infinix-X6525.mk
+    $(LOCAL_DIR)/crdroid_X6525
 
 COMMON_LUNCH_CHOICES := \
     omni_Infinix-X6525-user \
