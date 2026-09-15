@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     crdroid_X6525-user\
     crdroid_X6525-userdebug \
-    omni_Infinix-X6525-eng
+    crdroid_X6525-eng
